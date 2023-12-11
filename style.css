@@ -1,0 +1,24 @@
+body
+{
+background: #E8D7F6;
+}
+header
+{background-color: #77198C;
+color: white;
+padding: 18px;
+}
+table
+{
+background-color: #9A47AC;
+text-align: right;
+}
+.footer {
+   position: sticky;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: blue;
+   color: white;
+   text-align: center;
+}
+img {display: block; margin-left: auto; margin-right: auto;}
